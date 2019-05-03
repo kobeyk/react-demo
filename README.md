@@ -1,4 +1,10 @@
-搭建react脚手架，并结合官网的井字游戏教程，初始react
+联系我：appleyk
+我的CSDN博客地址：https://blog.csdn.net/Appleyk
+本篇博客地址：https://blog.csdn.net/Appleyk/article/details/89788519
+
+
+
+搭建react脚手架，并结合官网的井字游戏教程，初识react
 
 clone this repository，and install modules
 
